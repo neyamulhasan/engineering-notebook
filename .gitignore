@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Build directories
+build/
+bin/
+
+# Ignore everything in codeforces/ and leetcode/ except .cpp files
+codeforces/*
+!codeforces/*.cpp
+leetcode/*
+!leetcode/*.cpp
+
+# Editor junk
+*.swp
+*~
+.vscode/
