@@ -1,0 +1,44 @@
+HTTP (HyperText Transfer Protocol)
+
+- Application layer protocol
+- Stateless (no memory of previous request)
+- Runs on TCP
+
+Request Structure:
+- Method (GET, POST, PUT, DELETE)
+- Headers
+- Body
+
+Response:
+- Status Code
+- Data
+
+----------------------------------------
+HTTPS (Secure HTTP)
+
+- HTTP + SSL/TLS encryption
+- Secure data transfer
+- Prevents man-in-the-middle attack
+
+----------------------------------------
+HTTP Methods:
+
+GET:
+- Retrieve data
+
+POST:
+- Send data to server
+
+PUT:
+- Update data
+
+DELETE:
+- Remove data
+
+----------------------------------------
+Status Codes:
+
+2xx → Success (200 OK)
+3xx → Redirection
+4xx → Client error (404 Not Found)
+5xx → Server error (500 Internal Error)
