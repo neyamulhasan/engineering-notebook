@@ -1,0 +1,61 @@
+OSI MODEL (Open Systems Interconnection)
+
+7 Layers (Top → Bottom):
+1. Application
+2. Presentation
+3. Session
+4. Transport
+5. Network
+6. Data Link
+7. Physical
+
+----------------------------------------
+Layer Functions:
+
+Application:
+- Interface for user applications
+- Protocols: HTTP, FTP, SMTP
+
+Presentation:
+- Data formatting, encryption, compression
+- Example: SSL/TLS
+
+Session:
+- Establish, maintain, terminate sessions
+- Synchronization
+
+Transport:
+- End-to-end communication
+- Segmentation & reassembly
+- Protocols: TCP, UDP
+
+Network:
+- Logical addressing and routing
+- Protocol: IP
+
+Data Link:
+- Framing, MAC addressing, error detection
+- Example: Ethernet
+
+Physical:
+- Transmission of raw bits over medium
+- Cables, signals
+
+----------------------------------------
+Key Concepts:
+
+Encapsulation:
+Application Data
+→ Segment (Transport)
+→ Packet (Network)
+→ Frame (Data Link)
+→ Bits (Physical)
+
+Decapsulation:
+Reverse process at receiver
+
+----------------------------------------
+Important Points:
+- Each layer serves the layer above
+- Helps in modular design
+- Used for understanding and troubleshooting
