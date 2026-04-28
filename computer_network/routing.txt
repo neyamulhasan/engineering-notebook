@@ -1,0 +1,39 @@
+ROUTING
+
+- Process of selecting best path for data
+
+----------------------------------------
+Types:
+
+Static Routing:
+- Manually configured
+- Not scalable
+
+Dynamic Routing:
+- Automatically updated
+- Scalable
+
+----------------------------------------
+Routing Algorithms:
+
+Distance Vector:
+- Uses distance (hop count)
+- Example: RIP
+
+Link State:
+- Uses full network topology
+- Example: OSPF
+
+----------------------------------------
+Routing Protocols:
+
+RIP:
+- Simple
+- Limited to small networks
+
+OSPF:
+- Faster convergence
+- Uses link-state algorithm
+
+BGP:
+- Used between different networks (Internet)
