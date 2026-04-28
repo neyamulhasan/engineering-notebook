@@ -2,5 +2,5 @@
 
 This repository is my personal engineering notebook.
 
-I use it to practice problem solving, prepare for job interviews, and write down things I learn along the way.  
-The main purpose is to track my growth over time.
+It contains short, structured notes for quick review and fast recall.
+Think of it as a lightweight brain dump of what I learn over time.
