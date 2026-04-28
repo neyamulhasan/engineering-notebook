@@ -1,0 +1,39 @@
+CONGESTION CONTROL
+
+- Prevents network overload
+
+----------------------------------------
+Key Idea:
+Too much data → network congestion → packet loss
+
+----------------------------------------
+TCP Congestion Control Methods:
+
+1. Slow Start:
+- Start with small data rate
+- Increase gradually
+
+2. Congestion Avoidance:
+- Increase rate slowly
+
+3. Fast Retransmit:
+- Detect loss quickly using duplicate ACK
+
+4. Fast Recovery:
+- Reduce rate, then recover
+
+----------------------------------------
+Important Terms:
+
+Bandwidth:
+- Maximum capacity
+
+Throughput:
+- Actual data transferred
+
+Latency:
+- Delay in transmission
+
+----------------------------------------
+Goal:
+- Efficient and stable data transmission
