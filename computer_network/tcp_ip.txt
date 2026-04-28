@@ -1,0 +1,57 @@
+TCP/IP MODEL (4 Layers)
+
+1. Application
+2. Transport
+3. Internet
+4. Network Interface
+
+----------------------------------------
+TCP (Transmission Control Protocol)
+
+- Connection-oriented
+- Reliable communication
+
+3-Way Handshake:
+1. SYN → Client sends request
+2. SYN-ACK → Server responds
+3. ACK → Connection established
+
+Features:
+- Error detection
+- Retransmission
+- Flow control (window size)
+- Congestion control
+
+----------------------------------------
+UDP (User Datagram Protocol)
+
+- Connectionless
+- No guarantee of delivery
+- Faster than TCP
+
+Use Cases:
+- Video streaming
+- Online gaming
+
+----------------------------------------
+IP (Internet Protocol)
+
+- Logical addressing (IP address)
+- Responsible for packet delivery
+
+Types:
+- IPv4 (32-bit)
+- IPv6 (128-bit)
+
+----------------------------------------
+Key Difference:
+
+TCP:
+- Reliable
+- Slower
+- Ordered delivery
+
+UDP:
+- Unreliable
+- Faster
+- No ordering guarantee
