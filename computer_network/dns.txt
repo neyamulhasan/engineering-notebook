@@ -1,0 +1,46 @@
+DNS (Domain Name System)
+
+- Translates domain name → IP address
+
+Example:
+google.com → 142.250.x.x
+
+----------------------------------------
+DNS Resolution Process:
+
+1. User enters domain
+2. Resolver checks local cache
+3. If not found:
+   → Root DNS server
+   → TLD server (.com, .org)
+   → Authoritative server
+4. IP returned to client
+
+----------------------------------------
+Types of Queries:
+
+Recursive:
+- DNS server resolves completely
+
+Iterative:
+- Server gives partial answer
+
+----------------------------------------
+Record Types:
+
+A:
+- Maps domain → IPv4
+
+AAAA:
+- Maps domain → IPv6
+
+CNAME:
+- Alias of another domain
+
+MX:
+- Mail server record
+
+----------------------------------------
+Key Points:
+- Distributed system
+- Uses caching for speed
