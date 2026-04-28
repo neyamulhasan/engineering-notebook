@@ -1,0 +1,136 @@
+============================================================
+            CSE → IT JOB PREPARATION ROADMAP
+============================================================
+
+Author: Kazi Neyamul Hasan  
+Department: CSE  
+University: United International University (UIU)
+
+------------------------------------------------------------
+[1] PROGRAMMING FUNDAMENTALS
+------------------------------------------------------------
+- Syntax
+- Data Types
+- Variables
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Strings
+
+------------------------------------------------------------
+[2] DATA STRUCTURES
+------------------------------------------------------------
+- Array
+- Linked List
+- Stack
+- Queue
+- Hash Table
+- Tree
+- Binary Search Tree
+- Heap
+- Graph
+
+------------------------------------------------------------
+[3] ALGORITHMS
+------------------------------------------------------------
+- Sorting
+- Searching
+- Binary Search
+- Recursion
+- Backtracking
+- Greedy
+- Dynamic Programming
+- Graph Algorithms
+
+------------------------------------------------------------
+[4] OBJECT-ORIENTED PROGRAMMING
+------------------------------------------------------------
+- Class
+- Object
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+------------------------------------------------------------
+[5] DATABASE MANAGEMENT SYSTEM
+------------------------------------------------------------
+- Relational Model
+- SQL
+- Normalization
+- Indexing
+- Transactions
+- ACID Properties
+
+------------------------------------------------------------
+[6] OPERATING SYSTEM
+------------------------------------------------------------
+- Process
+- Thread
+- Scheduling
+- Synchronization
+- Deadlock
+- Memory Management
+- Virtual Memory
+- File System
+
+------------------------------------------------------------
+[7] COMPUTER NETWORKS
+------------------------------------------------------------
+- OSI Model
+- TCP/IP
+- HTTP / HTTPS
+- DNS
+- Routing
+- Congestion Control
+
+------------------------------------------------------------
+[8] SOFTWARE ENGINEERING
+------------------------------------------------------------
+- SDLC
+- Agile
+- Version Control
+- Testing
+- Design Principles
+
+------------------------------------------------------------
+[9] DEVELOPMENT (CHOOSE ONE TRACK)
+------------------------------------------------------------
+- HTML
+- CSS
+- JavaScript
+- Frontend Framework
+- Backend Framework
+- REST API
+- Authentication
+- Database Integration
+
+------------------------------------------------------------
+[10] TOOLS & ENVIRONMENT
+------------------------------------------------------------
+- Git
+- GitHub
+- Linux
+- Shell
+- Debugging
+
+------------------------------------------------------------
+[11] SYSTEM DESIGN BASICS
+------------------------------------------------------------
+- Scalability
+- Load Balancing
+- Caching
+- Database Design
+- Microservices
+
+------------------------------------------------------------
+[12] INTERVIEW PREPARATION
+------------------------------------------------------------
+- DSA Practice
+- Problem Solving
+- Resume Writing
+- Mock Interview
+
+============================================================
